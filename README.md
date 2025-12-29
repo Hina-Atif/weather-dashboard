@@ -165,3 +165,11 @@ Kubernetes Deployment: Scale the application with Kubernetes for better orchestr
 Cloud Automation: Automate infrastructure provisioning using Terraform or AWS CloudFormation. **************
 
 
+Quickdraw test
+
+---
+
+Fixed typo for Quickdraw test
+
+
+
